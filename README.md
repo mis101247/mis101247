@@ -19,9 +19,9 @@ YAML         30 mins         █░░░░░░░░░░░░░░░░
 📕 **My Latest Medium Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Profile self-updating](https://medium.com/@814007/github-profile-self-updating-d12a6f173c71?source=rss-1d2d8876197b------2)
-- [Malapascua island](https://medium.com/@814007/malapascua-island-a73b19bd3ab3?source=rss-1d2d8876197b------2)
-- [Olango island](https://medium.com/@814007/olango-island-d0f1b6fbd107?source=rss-1d2d8876197b------2)
+- [My Medium RSS feed broken](https://medium.com/mis101247/my-medium-rss-feed-broken-9061e73ac2b7?source=rss-1d2d8876197b------2)
+- [GitHub Profile self updating](https://medium.com/mis101247/github-profile-self-updating-1dcef3f35744?source=rss-1d2d8876197b------2)
+- [Malapascua island](https://medium.com/mis101247/malapascua-island-a73b19bd3ab3?source=rss-1d2d8876197b------2)
+- [Olango island](https://medium.com/mis101247/olango-island-d0f1b6fbd107?source=rss-1d2d8876197b------2)
 - [Camotes island](https://medium.com/mis101247/camotes-island-3ab5d3f8de0c?source=rss-1d2d8876197b------2)
-- [Bohol island-Day3&4](https://medium.com/mis101247/bohol-island-day3-4-e74223ad4464?source=rss-1d2d8876197b------2)
 <!-- BLOG-POST-LIST:END -->
