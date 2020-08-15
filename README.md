@@ -25,3 +25,7 @@ JSON         22 mins         ░░░░░░░░░░░░░░░░░
 - [Malapascua island](https://medium.com/mis101247/malapascua-island-a73b19bd3ab3?source=rss-1d2d8876197b------2)
 - [Olango island](https://medium.com/mis101247/olango-island-d0f1b6fbd107?source=rss-1d2d8876197b------2)
 <!-- BLOG-POST-LIST:END -->
+
+🎧 **I'm Listening on Spotify**
+
+[<img src="https://spotify-now-playing-nu.vercel.app/api/spotify-playing" alt="Spotify Now playing" width="350" />](https://open.spotify.com/user/21dqdh3gswmbyofjbihypdqba)
