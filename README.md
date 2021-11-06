@@ -8,9 +8,7 @@ Hi, I'm Keyo! I am a back-end Developer of web.
 📊 **This week I spent my time on. ([WakaTime](https://wakatime.com/@66242878-3a41-446c-852d-cafde411a834))**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 52 mins   ████████████████████░░░░░   80.07 % 
-HTML         1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.08 % 
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
