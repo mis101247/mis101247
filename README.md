@@ -9,7 +9,7 @@ Hi, I'm Keyo! I am a back-end Developer of web.
 <!--START_SECTION:waka-->
 
 ```text
-Other        52 mins         ███████████████████▒░░░░░   77.27 %
+Other        52 mins         ███████████████████▒░░░░░   77.31 %
 ```
 
 <!--END_SECTION:waka-->
