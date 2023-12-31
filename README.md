@@ -9,7 +9,11 @@ Hi, I'm Keyo! I am a back-end Developer of web.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git Config      35 mins         ██████████░░░░░░░░░░░░░░░   40.31 %
+PHP             17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+SSH Config      10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+YAML            7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+SSH Key         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
