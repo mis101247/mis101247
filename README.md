@@ -9,7 +9,10 @@ Hi, I'm Keyo! I am a back-end Developer of web.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         1 hr 10 mins    ███████████▓░░░░░░░░░░░░░   46.55 %
+JSON         1 hr 9 mins     ███████████▓░░░░░░░░░░░░░   46.31 %
+TypeScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
