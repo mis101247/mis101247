@@ -9,11 +9,11 @@ Hi, I'm Keyo! I am a back-end Developer of web.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.19 %
-JavaScript   3 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-HTML         2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Other        1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-CSS          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+TypeScript   11 hrs 1 min    █████████████░░░░░░░░░░░░   51.36 %
+JavaScript   3 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Other        2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+HTML         2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Prisma       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
