@@ -1,5 +1,3 @@
-## [Keyo's blog](https://blog.keyo.tw/)
-
 Hi, I'm Keyo! 
 
 
@@ -17,6 +15,8 @@ Python        2 hrs 29 mins         █▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+[Keyo's blog](https://blog.keyo.tw/)
 
 📕 **My Latest My Blog Posts**
 
