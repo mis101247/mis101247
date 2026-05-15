@@ -1,6 +1,6 @@
-## [Keyo @mis101247](https://github.com/mis101247/mis101247.github.io)
+## [Keyo's blog](https://blog.keyo.tw/)
 
-Hi, I'm Keyo! I am a back-end Developer of web. 
+Hi, I'm Keyo! 
 
 
 ![image](https://github.com/mis101247/mis101247/blob/master/dino.gif)
@@ -18,7 +18,7 @@ Python        2 hrs 29 mins         █▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-📕 **My Latest Medium Posts**
+📕 **My Latest My Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [荷蘭 | DEGIRO 定期定額歐股ETF](https://medium.com/mis101247/%E8%8D%B7%E8%98%AD-degiro-%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E6%AD%90%E8%82%A1etf-14c2094b265b?source=rss-1d2d8876197b------2)
