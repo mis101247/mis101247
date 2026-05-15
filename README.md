@@ -1,6 +1,3 @@
-Hi, I'm Keyo! 
-
-
 ![image](https://github.com/mis101247/mis101247/blob/master/dino.gif)
 
 📊 **This week I spent my time on. ([WakaTime](https://wakatime.com/@66242878-3a41-446c-852d-cafde411a834))**
@@ -15,8 +12,6 @@ Python        2 hrs 29 mins         █▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-[Keyo's blog](https://blog.keyo.tw/)
 
 📕 **My Latest My Blog Posts**
 
