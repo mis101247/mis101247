@@ -17,10 +17,10 @@ Astro         1 hr 40 mins          █░░░░░░░░░░░░░�
 
 <!-- BLOG-POST-LIST:START -->
 - [Google Maps Timeline 國家停留天數](https://blog.keyo.tw/blog/keyo-ideas/google-maps-timeline/)
+- [2025.04.05-06 Sorrento&amp; Amalfi](https://blog.keyo.tw/blog/travel/2025-04-05-sorrento-169/)
 - [Codex 應用：把想法推進成專案](https://blog.keyo.tw/blog/keyo-ideas/)
 - [KeyAtlas](https://blog.keyo.tw/blog/keyo-ideas/keyatlas/)
-- [KeyClip](https://blog.keyo.tw/blog/keyo-ideas/keyclip/)
-- [KeyForge](https://blog.keyo.tw/blog/keyo-ideas/keyforge/)<!-- BLOG-POST-LIST:END -->
+- [KeyClip](https://blog.keyo.tw/blog/keyo-ideas/keyclip/)<!-- BLOG-POST-LIST:END -->
 
 🎧 **I'm Listening on Spotify**
 
