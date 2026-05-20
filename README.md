@@ -16,11 +16,11 @@ Bash          2 hrs 31 mins         █▓░░░░░░░░░░░░�
 📕 **My Latest My Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [我如何用 Codex 整理出一張世界貓貓地圖](https://blog.keyo.tw/blog/keyo-ideas/how-i-used-codex-to-build-a-cat-map/)
 - [Google Maps Timeline 國家停留天數](https://blog.keyo.tw/blog/keyo-ideas/google-maps-timeline/)
 - [2025.04.05-06 Sorrento&amp; Amalfi](https://blog.keyo.tw/blog/travel/2025-04-05-sorrento-169/)
 - [Codex 應用：把想法推進成專案](https://blog.keyo.tw/blog/keyo-ideas/)
-- [KeyAtlas](https://blog.keyo.tw/blog/keyo-ideas/keyatlas/)
-- [KeyClip](https://blog.keyo.tw/blog/keyo-ideas/keyclip/)<!-- BLOG-POST-LIST:END -->
+- [KeyAtlas](https://blog.keyo.tw/blog/keyo-ideas/keyatlas/)<!-- BLOG-POST-LIST:END -->
 
 🎧 **I'm Listening on Spotify**
 
