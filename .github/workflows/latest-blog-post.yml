@@ -17,4 +17,4 @@ jobs:
         with:
           feed_list: 'https://blog.keyo.tw/rss.xml'
           max_post_count: 5
-          template: '$newline- [$title]($url)'
+          template: '$newline- [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)'
