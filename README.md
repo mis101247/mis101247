@@ -16,11 +16,11 @@ SQL               1 hr 20 mins          █▒░░░░░░░░░░░�
 📕 **My Latest My Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [我如何用 Codex 整理出一張世界貓貓地圖](https://blog.keyo.tw/blog/keyo-ideas/how-i-used-codex-to-build-a-cat-map/)
-- [Google Maps Timeline 國家停留天數](https://blog.keyo.tw/blog/keyo-ideas/google-maps-timeline/)
-- [2025.04.05-06 Sorrento&amp; Amalfi](https://blog.keyo.tw/blog/travel/2025-04-05-sorrento-169/)
-- [Codex 應用：把想法推進成專案](https://blog.keyo.tw/blog/keyo-ideas/)
-- [KeyAtlas](https://blog.keyo.tw/blog/keyo-ideas/keyatlas/)<!-- BLOG-POST-LIST:END -->
+- [我如何用 Codex 整理出一張世界貓貓地圖](https://blog.keyo.tw/blog/keyo-ideas/how-i-used-codex-to-build-a-cat-map/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
+- [Google Maps Timeline 國家停留天數](https://blog.keyo.tw/blog/keyo-ideas/google-maps-timeline/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
+- [2025.04.05-06 Sorrento&amp; Amalfi](https://blog.keyo.tw/blog/travel/2025-04-05-sorrento-169/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
+- [Codex 應用：把想法推進成專案](https://blog.keyo.tw/blog/keyo-ideas/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
+- [KeyAtlas](https://blog.keyo.tw/blog/keyo-ideas/keyatlas/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
 
 🎧 **I'm Listening on Spotify**
 
