@@ -16,11 +16,11 @@ CSS           2 hrs 23 mins         █▓░░░░░░░░░░░░�
 📕 **My Latest My Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [用 Obsidian 保存 Markdown 知識和技術文件](https://blog.keyo.tw/blog/obsidian-markdown-knowledge-base/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
+- [Prompt Library](https://blog.keyo.tw/blog/keyo-ideas/prompt-library/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
+- [Markdown 為什麼會變成 AI 時代的重要格式](https://blog.keyo.tw/blog/markdown-ai-agents-markdown-new/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [我如何用 Codex 整理出一張世界貓貓地圖](https://blog.keyo.tw/blog/keyo-ideas/how-i-used-codex-to-build-a-cat-map/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [Google Maps Timeline 國家停留天數](https://blog.keyo.tw/blog/keyo-ideas/google-maps-timeline/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [2025.04.05-06 Sorrento&amp; Amalfi](https://blog.keyo.tw/blog/travel/2025-04-05-sorrento-169/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [Codex 應用：把想法推進成專案](https://blog.keyo.tw/blog/keyo-ideas/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [KeyAtlas](https://blog.keyo.tw/blog/keyo-ideas/keyatlas/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
+- [Google Maps Timeline 國家停留天數](https://blog.keyo.tw/blog/keyo-ideas/google-maps-timeline/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
 
 🎧 **I'm Listening on Spotify**
 
