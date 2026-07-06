@@ -16,11 +16,11 @@ HTML          2 hrs 43 mins         █▓░░░░░░░░░░░░�
 📕 **My Latest My Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [想把 Fable 5 用得更好，先找到需求裡的盲點](https://blog.keyo.tw/blog/fable-5-finding-your-unknowns/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [用 Obsidian 保存 Markdown 知識和技術文件](https://blog.keyo.tw/blog/obsidian-markdown-knowledge-base/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [Prompt Library](https://blog.keyo.tw/blog/keyo-ideas/prompt-library/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [Markdown 為什麼會變成 AI 時代的重要格式](https://blog.keyo.tw/blog/markdown-ai-agents-markdown-new/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [我如何用 Codex 整理出一張世界貓貓地圖](https://blog.keyo.tw/blog/keyo-ideas/how-i-used-codex-to-build-a-cat-map/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [Google Maps Timeline 國家停留天數](https://blog.keyo.tw/blog/keyo-ideas/google-maps-timeline/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
+- [我如何用 Codex 整理出一張世界貓貓地圖](https://blog.keyo.tw/blog/keyo-ideas/how-i-used-codex-to-build-a-cat-map/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
 
 🎧 **I'm Listening on Spotify**
 
