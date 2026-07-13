@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        46 mins               ██████████████████████░░░   87.65 %
-Other        5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
