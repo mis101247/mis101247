@@ -16,11 +16,11 @@ Bash             1 hr 52 mins          ▓░░░░░░░░░░░░�
 📕 **My Latest My Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Skills 不是裝越多越好：定期 Review 才能維持效率](https://blog.keyo.tw/blog/ai-agent-skill-audit/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [Codex 省額度的用法：Sol 想清楚，Luna Max 動手做](https://blog.keyo.tw/blog/ai-model-routing-pilotfish/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [先別讓 AI 寫計畫：用 grill-me 把需求問清楚](https://blog.keyo.tw/blog/grill-me-ai-planning-skill/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [Prompt Optimizer：讓 AI Agent 知道什麼時候該問](https://blog.keyo.tw/blog/prompt-optimizer/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [想把 Fable 5 用得更好，先找到需求裡的盲點](https://blog.keyo.tw/blog/fable-5-finding-your-unknowns/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [用 Obsidian 保存 Markdown 知識和技術文件](https://blog.keyo.tw/blog/obsidian-markdown-knowledge-base/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
+- [想把 Fable 5 用得更好，先找到需求裡的盲點](https://blog.keyo.tw/blog/fable-5-finding-your-unknowns/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
 
 🎧 **I'm Listening on Spotify**
 
