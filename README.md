@@ -24,4 +24,4 @@ JSON         3 hrs 20 mins         █▒░░░░░░░░░░░░░
 
 🎧 **I'm Listening on Spotify**
 
-[<img src="https://spotify-now-playing-nu.vercel.app/api/spotify-playing" alt="Spotify Now playing" width="50%" />](https://open.spotify.com/user/21dqdh3gswmbyofjbihypdqba)
+[<img src="https://spotify-now-playing-nu.vercel.app/api/spotify-playing?v=20260817" alt="Spotify Now playing" width="50%" />](https://open.spotify.com/user/21dqdh3gswmbyofjbihypdqba)
