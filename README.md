@@ -16,11 +16,11 @@ Prisma       59 mins               ▓░░░░░░░░░░░░░░
 📕 **My Latest My Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [先弄清楚自己想過什麼生活](https://blog.keyo.tw/blog/cai-kang-yong-how-to-live/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [收到「異常交易」通知？先別點：記住一個防詐原則](https://blog.keyo.tw/blog/bank-abnormal-transaction-phishing-email/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [理解語言模型運作，問問題會更好](https://blog.keyo.tw/blog/how-to-ask-llm-for-better-answers/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
 - [什麼是知識蒸餾？大模型如何把能力教給小模型](https://blog.keyo.tw/blog/knowledge-distillation/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [不知道自己要做什麼，就先做一小段看看](https://blog.keyo.tw/blog/when-you-dont-know-what-to-do/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)
-- [把每份工作變成可複利的資產](https://blog.keyo.tw/blog/work-as-a-compounding-asset/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
+- [不知道自己要做什麼，就先做一小段看看](https://blog.keyo.tw/blog/when-you-dont-know-what-to-do/?utm_source=github&utm_medium=profile&utm_campaign=latest_blog_posts&utm_content=readme)<!-- BLOG-POST-LIST:END -->
 
 🎧 **I'm Listening on Spotify**
 
